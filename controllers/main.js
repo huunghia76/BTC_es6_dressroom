@@ -1,5 +1,5 @@
 import API from '../utils/callData.js'
-
+// nghia hoang
 const getElement = (selector) => {
     return document.querySelector(selector)
 }
