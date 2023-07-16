@@ -64,7 +64,4 @@ window.handleSetClothes = (type, src) => {
 
     getElement(`.${type}`).style.background = `url(${src}) 0% 0% / 100%`
     
-    if (type == 'hairstyle' ) {
-        getElement('.hairstyle').style.background = `url(${src}) 0% 0% / 110%`
-    }
 }
