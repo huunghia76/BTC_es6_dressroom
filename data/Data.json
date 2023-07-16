@@ -32,6 +32,11 @@
                     "type": "hairstyle"
                 },
                 {
+                    "tabName": "tabModel",
+                    "showName": "Kiểu mặt",
+                    "type": "model"
+                },
+                {
                     "tabName": "tabBackground",
                     "showName": "Nền",
                     "type": "background"
@@ -269,6 +274,30 @@
                     "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, nulla.",
                     "imgSrc_jpg": "../assets/images/background/background4_show.jpg",
                     "imgSrc_png": "../assets/images/background/background4.jpg"
+                },
+                {
+                    "id": "model_1",
+                    "type": "model",
+                    "name": "model 1",
+                    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, nulla.",
+                    "imgSrc_jpg": "../assets/images/model/999.png",
+                    "imgSrc_png": "../assets/images/model/999.png"
+                },
+                {
+                    "id": "model_2",
+                    "type": "model",
+                    "name": "model 2",
+                    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, nulla.",
+                    "imgSrc_jpg": "../assets/images/model/1000.png",
+                    "imgSrc_png": "../assets/images/model/1000.png"
+                },
+                {
+                    "id": "model_3",
+                    "type": "model",
+                    "name": "model 3",
+                    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, nulla.",
+                    "imgSrc_jpg": "../assets/images/model/1003.png",
+                    "imgSrc_png": "../assets/images/model/1003.png"
                 }
             ]
         }
